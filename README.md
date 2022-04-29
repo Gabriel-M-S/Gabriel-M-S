@@ -1,4 +1,4 @@
-###                                                                 Hi there 👋
+###                                                              <div align="center">   Hi there 👋 </div>
 
 <div align="center">
   <a href="https://github.com/Gabriel-M-S">
