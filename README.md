@@ -24,10 +24,3 @@
 </div>
   <br>   
   
-##
- 
- <div align="center">
-
-  ![Snake animation](https://github.com/Gabriel-M-S/Gabriel-M-S/blob/output/github-contribution-grid-snake.svg)
-
-</div>
